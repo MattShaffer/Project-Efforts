@@ -1,0 +1,14 @@
+Is the Charlotte Housing Bubble About to Burst Project.
+
+This was a challenging project because of Paralysis by Analysis, and because there were only 2 contributors. 
+
+Below is a breakdown of who did what
+
+Data Gathering - Matt S. (15 hours)
+Data filtering and cleansing - Cody S. & Matt S. (20 hours)
+Data Merging - Cody S.
+Data Indexing - Matt S. (5 hours)
+Data Visulization - Matt S.(10 hours) % Cody S.
+Presentation - Matt S. 
+
+This project was a leaning lesson for us. We spent too much time analyzing the data, and not enough time preparing the visualizations for the presentation, we simply ran out of time. Being that Cody and I were the only two working on the project, our time ran out very quickly.  
